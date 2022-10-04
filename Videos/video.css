@@ -1,0 +1,27 @@
+* {
+    padding: 0; 
+    margin: 0; 
+    box-sizing: border-box; 
+}
+
+video {
+    max-width: 40.75em;
+    max-height: 43.875em;
+    min-width: 15.75em;
+    min-height: 19.875em;
+    margin: auto 0; 
+}
+
+body {
+    background-color: rgb(0, 206, 206);
+}
+
+.container-universal {
+    max-width: 43.75em;
+    max-height: 46.875em;
+    min-width: 18.75em;
+    min-height: 21.875em;
+    margin: auto 0;
+    background-color: white; 
+    box-shadow: 1px 1px 3px black; 
+}
